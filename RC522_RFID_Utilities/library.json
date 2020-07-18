@@ -1,0 +1,21 @@
+{
+  "name": "BoolLi",
+  "version": "1.0.0",
+  "description": "Utilities written for RC522 RFID reader/writer.",
+  "keywords": "RC522, NDEF",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Graunephar/RC522_RFID_NFC_Utilities"
+  },
+  "authors":
+  [
+    {
+      "name": "BoolLi"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://www.helloworld.org/",
+  "frameworks": "*",
+  "platforms": "*"
+}
